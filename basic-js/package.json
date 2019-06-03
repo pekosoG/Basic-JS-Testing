@@ -1,0 +1,20 @@
+{
+  "name": "js-basic",
+  "version": "1.0.0",
+  "description": "funciones basicas de chai",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha ./tests/**"
+  },
+  "author": "pekosog",
+  "license": "ISC"
+}
